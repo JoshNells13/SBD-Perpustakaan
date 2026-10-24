@@ -1,0 +1,3 @@
+ALTER TABLE anggota
+ADD COLUMN email VARCHAR(100),
+ADD COLUMN poin_keaktifan INT NOT NULL DEFAULT 0;

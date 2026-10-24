@@ -1,0 +1,2 @@
+ALTER TABLE penerbit
+MODIFY COLUMN no_telepon VARCHAR(20) NOT NULL;

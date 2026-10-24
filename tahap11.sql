@@ -1,0 +1,2 @@
+DELETE FROM buku
+WHERE id = 'BK0005';
